@@ -1,0 +1,24 @@
+Some basics about latex
+
+1.latex is a typeset application which is the best way to make typesettings. And another way to typeset is macrosoft word.
+
+2.latex can be compiled to many kinds of files，like the most popular file the pdf file.
+
+3.the best way to make latex compiled files are using tex-live engine（background） and texmaker editor（foreground）
+
+4.the latex is like document［］｛｝，and I do not know the real meaning of them because they seem not very clear
+
+5.something I learned today
+
+\document｛article｝
+\title｛xxxx｝
+\makwtitle
+\section｛xxxx｝
+\subsection｛xxxx｝
+\paragraph｛xxxx｝
+\subparagraph｛xxxx｝
+\begin｛document｝
+\end｛document｝
+
+I have not used other functions，but well I will try to use them from tomorrow
+ 
