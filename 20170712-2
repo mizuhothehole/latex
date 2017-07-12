@@ -1,0 +1,11 @@
+How to use Latex 
+use \documentstyle｛carticle｝if we want to use the chinese words.
+
+\newline to make a new line in latex
+
+\newpage to make a new page in latex
+
+\par to make different paragraphs
+
+\（ mathmatic equations\）
+$$  mathmatic equations $$
