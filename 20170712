@@ -32,8 +32,13 @@ Hello \\ world \\ !!
 
 I have not used other functions，but well I will try to use them from tomorrow
 
-
 7.math sympols
+\（  \）
+$ $
+begin｛math｝ end｛math｝
+begin｛displaymath｝ end｛enddisplaymath｝
+begin｛equation｝end｛equation｝
+5^｛2｝=3^｛2｝+4^｛2｝
 
 8.tables
 
