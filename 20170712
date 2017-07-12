@@ -8,17 +8,31 @@ Some basics about latex
 
 4.the latex is like document［］｛｝，and I do not know the real meaning of them because they seem not very clear
 
-5.something I learned today
+5.remember to use eps images and out the picture into same folder as the tex file
+
+6.something very offen used in latex
 
 \document｛article｝
+\usepackage｛amsmath｝
+\usepackage｛amssymb｝
+\usepackage｛graphicx｝
+\begin｛document｝
+\tableofcontents
+\author｛xxxx｝
 \title｛xxxx｝
 \makwtitle
 \section｛xxxx｝
 \subsection｛xxxx｝
+\subsubsection｛xxxxx｝
 \paragraph｛xxxx｝
 \subparagraph｛xxxx｝
-\begin｛document｝
+Hello \\ world \\ !!
+\usegraphics【width=3.00in，height=4.00in】｛figure1.eps｝
 \end｛document｝
 
 I have not used other functions，but well I will try to use them from tomorrow
- 
+
+
+7.math sympols
+
+8.tables
