@@ -51,3 +51,8 @@ c&d \\
 \hline
 end｛tabular｝
 end｛center｝
+
+
+\newpage 换页
+\hspace｛0.5cm｝空格大小
+\pm 加减运算符
