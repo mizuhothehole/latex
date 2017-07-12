@@ -1,6 +1,8 @@
 How to use Latex 
 use \documentstyle｛carticle｝if we want to use the chinese words.
 
+documentclass【12pt】｛article｝limit the font to 12pt
+
 \newline to make a new line in latex
 
 \newpage to make a new page in latex
@@ -9,3 +11,8 @@ use \documentstyle｛carticle｝if we want to use the chinese words.
 
 \（ mathmatic equations\）
 $$  mathmatic equations $$
+
+\section*｛xxxx｝
+the * says not to number it.If we do not use the * we will get a numbered
+section title.
+
