@@ -36,3 +36,13 @@ I have not used other functions，but well I will try to use them from tomorrow
 7.math sympols
 
 8.tables
+
+begin｛center｝
+begin｛tabular｝｛|c|c|｝
+\hline
+a&b \\
+\hline
+c&d \\
+\hline
+end｛tabular｝
+end｛center｝
